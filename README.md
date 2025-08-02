@@ -33,6 +33,7 @@ This project implements and compares **four classification techniques** on synth
 
 ## 🛠️ Installation  
 ```bash
+for file try https://drive.google.com/drive/folders/1mK-XWxTrrh6By13PegxGrz93wxVJFfwR?usp=drive_link
 git clone https://github.com/yourusername/ML-Classification-Showdown.git
 cd ML-Classification-Showdown
 pip install -r requirements.txt  # numpy, scikit-learn, matplotlib
